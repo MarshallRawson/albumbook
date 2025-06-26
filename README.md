@@ -1,5 +1,7 @@
 # AlbumBook
 
+[![App Store Badge](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/albumbook/id6747541999)
+
 A flutter client for uploading and viewing nextcloud memories albums. 
 
 ## iOS
